@@ -1,4 +1,4 @@
-## Utility tools for
+## Utility tools for monitoring LoRa traffic using Semtech picoGW
 
 # Broker
 
