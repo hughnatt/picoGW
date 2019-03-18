@@ -15,6 +15,6 @@ docker-compose up
 Make sur you have docker and docker-compose installed
 
 
-More information:
-https://github.com/Lora-net/picoGW_packet_forwarder
-https://github.com/Lora-net/picogw_hal
+More information:  
+https://github.com/Lora-net/picoGW_packet_forwarder  
+https://github.com/Lora-net/picogw_hal  
